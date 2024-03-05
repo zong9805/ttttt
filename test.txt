@@ -1,0 +1,44 @@
+ <iframe allowtransparency="true" frameborder="0" width="385" height="96" scrolling="no" src="//tianqi.2345.com/plugin/widget/index.htm?s=1&amp;z=1&amp;t=0&amp;v=0&amp;d=3&amp;bd=0&amp;k=000000&amp;f=&amp;ltf=009944&amp;htf=cc0000&amp;q=1&amp;e=1&amp;a=1&amp;c=54511&amp;w=385&amp;h=96&amp;align=center"></iframe>
+
+        <center><b>❀登录方式说明❀</b></center>
+    </div>
+    <div class="neu-textbox">💡加群200135071防失联</div>
+    <div class="neu-textbox">💡优先手机登录。不行再换扫码</div>
+    <div class="neu-textbox">💡扫码登录正常下6个月有效期,现在都是3天</div>
+    <div class="neu-textbox">💡手机登录正常下3个月有效期,现在都是3天</div>
+    <style>
+        .neu-textbox {
+            font-size: 1em;
+            padding: 0.5em 1em;
+           /** background-color: #f2f2f2; **/
+            color: #333;
+            border: none;
+            border-radius: 0.5em;
+            box-shadow: 0 0.5em 1em rgba(0, 0, 0, 0.2);
+            text-shadow: 0 0.1em 0.2em rgba(0, 0, 0, 0.2);
+            transition: all 0.2s ease-in-out;
+            display: inline-block;
+            width: 100%;
+            /* 设置宽度为父元素宽度 */
+            box-sizing: border-box;
+            /* 让宽度包含边框和内边距 */
+        }
+
+        .neu-textbox:hover {
+            transform: translateY(-0.1em);
+            box-shadow: 0 0.75em 1.5em rgba(0, 0, 0, 0.2);
+        }
+
+        .neu-textbox:focus {
+            outline: none;
+            box-shadow: 0 0.75em 1.5em rgba(0, 0, 0, 0.2);
+        }
+        .login-form>div{
+            transform: none !important;
+
+        }
+.login-form button{
+--el-button-bg-color:#00000000 !important; }
+    </style>
+    <div style="z-index: -1;top: 0;left: 0;position: absolute;width: 100%;height: 100%;">
+        <video src="https://loveme.gay/4.mp4" autoplay="" loop="" muted="" style=" width: 100%;height: 100%;object-fit: fill;" qk-data="video"></video>
